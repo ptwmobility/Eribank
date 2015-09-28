@@ -12,20 +12,24 @@
 	<dict>
 		<key>477E9AB2AE01025A2B15C5D5A64E5C167CB44B52</key>
 		<string>https://github.com/ptwmobility/eribank</string>
+		<key>F0F3BD92458D45BDF1781B83E27180513D3975A4</key>
+		<string>https://github.com/ptwmobility/Eribank.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>iOS/ExperiBank.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>477E9AB2AE01025A2B15C5D5A64E5C167CB44B52</key>
+		<string>../../../../Build</string>
+		<key>F0F3BD92458D45BDF1781B83E27180513D3975A4</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ptwmobility/eribank</string>
+	<string>https://github.com/ptwmobility/Eribank.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>477E9AB2AE01025A2B15C5D5A64E5C167CB44B52</string>
+	<string>F0F3BD92458D45BDF1781B83E27180513D3975A4</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>477E9AB2AE01025A2B15C5D5A64E5C167CB44B52</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Build</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F0F3BD92458D45BDF1781B83E27180513D3975A4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Eribank</string>
 		</dict>
 	</array>
 </dict>
