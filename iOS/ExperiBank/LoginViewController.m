@@ -42,7 +42,7 @@
 - (void)viewDidAppear:(BOOL)animated {
     
     
-//   [su   per viewDidAppear:animated];
+    [super viewDidAppear:animated];
     usernameTextField.text =@"";
     passwordTextField.text =@"";
 }
