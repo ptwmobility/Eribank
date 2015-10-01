@@ -39,6 +39,7 @@
     [loginButton setAccessibilityLabel:@"loginButton"];
 }
 
+// viewDidAppear
 - (void)viewDidAppear:(BOOL)animated {
     
     
